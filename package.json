@@ -20,5 +20,8 @@
   "allowScripts": {
     "esbuild": true,
     "vue-demi": true
+  },
+  "devDependencies": {
+    "@iconify-json/lucide": "^1.2.118"
   }
 }
